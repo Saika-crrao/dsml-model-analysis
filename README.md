@@ -4,6 +4,9 @@ During my internship, I worked with multiple computer vision and multimodal mode
 Due to organizational constraints, the original code and trained models were shared internally
 and are not publicly available.
 
+## Conceptual Evaluation Flow
+Input → Model Inference → Output Analysis → Error Identification → Model Comparison
+
 ## Models Explored
 - Faster R-CNN – object detection
 - BLIP-2 – vision-language understanding

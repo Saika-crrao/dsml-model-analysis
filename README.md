@@ -8,20 +8,22 @@ and are not publicly available.
 Input → Model Inference → Output Analysis → Error Identification → Model Comparison
 
 ## Models Explored
-- Faster R-CNN – object detection
-- BLIP-2 – vision-language understanding
-- LLaVA – multimodal reasoning
-- MiniGPT-4 – image-to-text generation
+- Faster R-CNN – object detection  
+- BLIP-2 – vision-language understanding  
+- LLaVA – multimodal reasoning  
+- MiniGPT-4 – image-to-text generation  
+- Kandinsky – image generation  
+- Janus-Pro – exposure to multimodal generation and understanding workflows  
 
 ## What I Worked On
-- Studied model architectures and input-output behavior
-- Tested models on sample inputs and analyzed outputs
-- Compared strengths and limitations across models
-- Interpreted failure cases and discussed performance differences
+- Studied model architectures and input-output behavior  
+- Tested models on sample inputs and analyzed outputs  
+- Compared strengths and limitations across models  
+- Interpreted failure cases and discussed performance differences  
 
 ## Key Learnings
-- Trade-offs between accuracy and inference speed
-- Challenges in multimodal alignment
-- Importance of evaluation beyond raw outputs
+- Trade-offs between accuracy and inference speed  
+- Challenges in multimodal alignment  
+- Importance of evaluation beyond raw outputs  
 
 This repository focuses on conceptual understanding and analysis rather than full implementations.

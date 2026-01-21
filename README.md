@@ -26,4 +26,4 @@ Input → Model Inference → Output Analysis → Error Identification → Model
 - Challenges in multimodal alignment  
 - Importance of evaluation beyond raw outputs  
 
-This repository focuses on conceptual understanding and analysis rather than full implementations.
+This repository focuses on model evaluation, analysis, and comparative understanding rather than full end-to-end implementations.
